@@ -127,6 +127,10 @@ The project uses the Google Play Store Apps dataset and its associated user revi
 
 Credit is given to the original dataset creator.
 
+## Power BI Dashboard
+
+![Google Play Store Dashboard](Google_Play_Store_Dashboard.png)
+
 
 
 
