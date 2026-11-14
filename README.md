@@ -129,8 +129,7 @@ Credit is given to the original dataset creator.
 
 ## Power BI Dashboard
 
-![Google Play Store Dashboard](Google_Play_Store_Dashboard.png)
-
+![Google Play Store Dashboard](dashboard/Google_Play_Store_Dashboard.png)
 
 
 
