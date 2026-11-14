@@ -130,7 +130,7 @@ Credit is given to the original dataset creator.
 ## Power BI Dashboard
 
 ![Google Play Store Dashboard](dashboard/Google_Play_Store_Dashboard.png)
-
+[Download Power BI Dashboard (.pbix)](Google_Play_Store_Analysis.pbix)
 
 
 
